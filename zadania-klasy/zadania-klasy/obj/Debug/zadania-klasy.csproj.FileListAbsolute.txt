@@ -1,0 +1,8 @@
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\bin\Debug\zadania-klasy.exe.config
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\bin\Debug\zadania-klasy.exe
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\bin\Debug\zadania-klasy.pdb
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\obj\Debug\zadania-klasy.csproj.AssemblyReference.cache
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\obj\Debug\zadania-klasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\obj\Debug\zadania-klasy.csproj.CoreCompileInputs.cache
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\obj\Debug\zadania-klasy.exe
+C:\Users\2ft\Documents\2ft\po\zadania-klasy\zadania-klasy\obj\Debug\zadania-klasy.pdb

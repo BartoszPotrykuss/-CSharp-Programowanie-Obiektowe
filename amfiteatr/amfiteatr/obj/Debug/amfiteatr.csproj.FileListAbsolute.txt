@@ -1,0 +1,8 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\bin\Debug\amfiteatr.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\bin\Debug\amfiteatr.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\bin\Debug\amfiteatr.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\obj\Debug\amfiteatr.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\obj\Debug\amfiteatr.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\obj\Debug\amfiteatr.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\obj\Debug\amfiteatr.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\amfiteatr\amfiteatr\obj\Debug\amfiteatr.pdb

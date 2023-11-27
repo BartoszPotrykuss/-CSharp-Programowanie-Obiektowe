@@ -1,0 +1,8 @@
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\bin\Debug\zadaniaKonstruktor.exe.config
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\bin\Debug\zadaniaKonstruktor.exe
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\bin\Debug\zadaniaKonstruktor.pdb
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\obj\Debug\zadaniaKonstruktor.csproj.AssemblyReference.cache
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\obj\Debug\zadaniaKonstruktor.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\obj\Debug\zadaniaKonstruktor.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\obj\Debug\zadaniaKonstruktor.exe
+E:\programowanie\POB\zadaniaKonstruktor\zadaniaKonstruktor\obj\Debug\zadaniaKonstruktor.pdb

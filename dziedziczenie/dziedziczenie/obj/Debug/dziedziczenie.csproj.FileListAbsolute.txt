@@ -1,0 +1,8 @@
+E:\programowanie\POB\dziedziczenie\dziedziczenie\bin\Debug\dziedziczenie.exe.config
+E:\programowanie\POB\dziedziczenie\dziedziczenie\bin\Debug\dziedziczenie.exe
+E:\programowanie\POB\dziedziczenie\dziedziczenie\bin\Debug\dziedziczenie.pdb
+E:\programowanie\POB\dziedziczenie\dziedziczenie\obj\Debug\dziedziczenie.csproj.AssemblyReference.cache
+E:\programowanie\POB\dziedziczenie\dziedziczenie\obj\Debug\dziedziczenie.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\dziedziczenie\dziedziczenie\obj\Debug\dziedziczenie.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\dziedziczenie\dziedziczenie\obj\Debug\dziedziczenie.exe
+E:\programowanie\POB\dziedziczenie\dziedziczenie\obj\Debug\dziedziczenie.pdb

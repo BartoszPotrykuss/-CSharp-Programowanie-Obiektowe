@@ -1,0 +1,8 @@
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\obj\Debug\Listy, equals, compare.csproj.AssemblyReference.cache
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\obj\Debug\Listy, equals, compare.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\obj\Debug\Listy, equals, compare.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\bin\Debug\Listy, equals, compare.exe.config
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\bin\Debug\Listy, equals, compare.exe
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\bin\Debug\Listy, equals, compare.pdb
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\obj\Debug\Listy, equals, compare.exe
+E:\programowanie\POB\Listy, equals, compare\Listy, equals, compare\obj\Debug\Listy, equals, compare.pdb

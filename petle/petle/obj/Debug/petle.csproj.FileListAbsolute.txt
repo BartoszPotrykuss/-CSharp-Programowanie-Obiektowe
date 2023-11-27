@@ -1,0 +1,8 @@
+C:\Users\bpotr\source\repos\petle\petle\bin\Debug\petle.exe.config
+C:\Users\bpotr\source\repos\petle\petle\bin\Debug\petle.exe
+C:\Users\bpotr\source\repos\petle\petle\bin\Debug\petle.pdb
+C:\Users\bpotr\source\repos\petle\petle\obj\Debug\petle.csproj.AssemblyReference.cache
+C:\Users\bpotr\source\repos\petle\petle\obj\Debug\petle.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\source\repos\petle\petle\obj\Debug\petle.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\source\repos\petle\petle\obj\Debug\petle.exe
+C:\Users\bpotr\source\repos\petle\petle\obj\Debug\petle.pdb

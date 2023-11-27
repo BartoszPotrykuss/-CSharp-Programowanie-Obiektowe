@@ -1,0 +1,16 @@
+żeby okienko podczas wykonywania czynności określonej w przycisku była responsywna, do metody, która się wykonuje należy dodać: await Task.Run(() => funkcja());
+a do metody, która wykonuje metodę dodać async
+jeśli funkcja do której dodamy await nic nie zwraca (typ void) należy zmienić void na Task
+Jeśli jednak chcemy zwrócić jakiś rezultat z metody asynchronicznej (ma przed nazwą async) musimy zrobić generyczny Task, czyli: private async Task<int> nazwa()
+
+Jeśli jest do zrobienia kilka tasków można każdy pojedynczy wrzucić do zmiennej a następnie do listy
+do zmiennej: var task = Task.Run(() => //task);
+do listy: po każdym obrocie pętli dodajemy do listy ====>>>> tasks.Add(task);
+żeby je zrobić naraz: await Task.WhenAll(tasks);  
+jeżeli chcemy by tylko jeden task się zrobił to await Task.WheAny(tasks);
+
+przy async void nie można obsłużyć wyjątków, trzeba zmienić na Task
+
+
+
+

@@ -1,0 +1,8 @@
+E:\programowanie\POB\tryParse\tryParse\bin\Debug\tryParse.exe.config
+E:\programowanie\POB\tryParse\tryParse\bin\Debug\tryParse.exe
+E:\programowanie\POB\tryParse\tryParse\bin\Debug\tryParse.pdb
+E:\programowanie\POB\tryParse\tryParse\obj\Debug\tryParse.csproj.AssemblyReference.cache
+E:\programowanie\POB\tryParse\tryParse\obj\Debug\tryParse.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\tryParse\tryParse\obj\Debug\tryParse.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\tryParse\tryParse\obj\Debug\tryParse.exe
+E:\programowanie\POB\tryParse\tryParse\obj\Debug\tryParse.pdb

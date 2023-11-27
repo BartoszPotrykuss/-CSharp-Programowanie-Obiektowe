@@ -1,0 +1,8 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\bin\Debug\array.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\bin\Debug\array.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\bin\Debug\array.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\obj\Debug\array.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\obj\Debug\array.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\array\array\obj\Debug\array.pdb

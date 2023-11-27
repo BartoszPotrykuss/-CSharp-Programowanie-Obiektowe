@@ -1,0 +1,8 @@
+E:\programowanie\POB\sklep\sklep\bin\Debug\sklep.exe.config
+E:\programowanie\POB\sklep\sklep\bin\Debug\sklep.exe
+E:\programowanie\POB\sklep\sklep\bin\Debug\sklep.pdb
+E:\programowanie\POB\sklep\sklep\obj\Debug\sklep.csproj.AssemblyReference.cache
+E:\programowanie\POB\sklep\sklep\obj\Debug\sklep.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\sklep\sklep\obj\Debug\sklep.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\sklep\sklep\obj\Debug\sklep.exe
+E:\programowanie\POB\sklep\sklep\obj\Debug\sklep.pdb

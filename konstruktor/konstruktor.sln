@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konstruktor", "konstruktor\konstruktor.csproj", "{2114A0DF-2F6C-4344-B9A2-D8A3B3D00B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2114A0DF-2F6C-4344-B9A2-D8A3B3D00B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2114A0DF-2F6C-4344-B9A2-D8A3B3D00B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2114A0DF-2F6C-4344-B9A2-D8A3B3D00B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2114A0DF-2F6C-4344-B9A2-D8A3B3D00B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182C7C30-8B16-427F-9599-AED9BD259425}
+	EndGlobalSection
+EndGlobal

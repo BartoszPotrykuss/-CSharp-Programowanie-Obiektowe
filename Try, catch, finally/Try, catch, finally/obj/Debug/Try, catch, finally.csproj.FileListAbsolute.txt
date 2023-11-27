@@ -1,0 +1,8 @@
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\bin\Debug\Try, catch, finally.exe.config
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\bin\Debug\Try, catch, finally.exe
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\bin\Debug\Try, catch, finally.pdb
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\obj\Debug\Try, catch, finally.csproj.AssemblyReference.cache
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\obj\Debug\Try, catch, finally.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\obj\Debug\Try, catch, finally.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\obj\Debug\Try, catch, finally.exe
+E:\programowanie\POB\Try, catch, finally\Try, catch, finally\obj\Debug\Try, catch, finally.pdb

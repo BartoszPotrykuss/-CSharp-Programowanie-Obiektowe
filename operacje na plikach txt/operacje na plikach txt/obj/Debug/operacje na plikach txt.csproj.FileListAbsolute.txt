@@ -1,0 +1,8 @@
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\bin\Debug\operacje na plikach txt.exe.config
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\bin\Debug\operacje na plikach txt.exe
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\bin\Debug\operacje na plikach txt.pdb
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\obj\Debug\operacje na plikach txt.csproj.AssemblyReference.cache
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\obj\Debug\operacje na plikach txt.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\obj\Debug\operacje na plikach txt.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\obj\Debug\operacje na plikach txt.exe
+E:\programowanie\POB\operacje na plikach txt\operacje na plikach txt\obj\Debug\operacje na plikach txt.pdb

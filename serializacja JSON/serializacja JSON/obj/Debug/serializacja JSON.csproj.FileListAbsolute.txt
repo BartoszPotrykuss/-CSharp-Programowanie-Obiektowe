@@ -1,0 +1,11 @@
+E:\programowanie\POB\serializacja JSON\serializacja JSON\bin\Debug\serializacja JSON.exe.config
+E:\programowanie\POB\serializacja JSON\serializacja JSON\bin\Debug\serializacja JSON.exe
+E:\programowanie\POB\serializacja JSON\serializacja JSON\bin\Debug\serializacja JSON.pdb
+E:\programowanie\POB\serializacja JSON\serializacja JSON\bin\Debug\Newtonsoft.Json.dll
+E:\programowanie\POB\serializacja JSON\serializacja JSON\bin\Debug\Newtonsoft.Json.xml
+E:\programowanie\POB\serializacja JSON\serializacja JSON\obj\Debug\serializacja JSON.csproj.AssemblyReference.cache
+E:\programowanie\POB\serializacja JSON\serializacja JSON\obj\Debug\serializacja JSON.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\serializacja JSON\serializacja JSON\obj\Debug\serializacja JSON.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\serializacja JSON\serializacja JSON\obj\Debug\serializacja JSON.csproj.CopyComplete
+E:\programowanie\POB\serializacja JSON\serializacja JSON\obj\Debug\serializacja JSON.exe
+E:\programowanie\POB\serializacja JSON\serializacja JSON\obj\Debug\serializacja JSON.pdb

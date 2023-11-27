@@ -1,0 +1,8 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\bin\Debug\obiektoweZadania.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\bin\Debug\obiektoweZadania.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\bin\Debug\obiektoweZadania.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\obj\Debug\obiektoweZadania.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\obj\Debug\obiektoweZadania.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\obj\Debug\obiektoweZadania.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\obj\Debug\obiektoweZadania.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\obiektoweZadania\obiektoweZadania\obj\Debug\obiektoweZadania.pdb

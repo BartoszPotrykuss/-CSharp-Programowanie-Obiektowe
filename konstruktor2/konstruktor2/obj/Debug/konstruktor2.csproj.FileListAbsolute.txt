@@ -1,0 +1,8 @@
+E:\programowanie\POB\konstruktor2\konstruktor2\bin\Debug\konstruktor2.exe.config
+E:\programowanie\POB\konstruktor2\konstruktor2\bin\Debug\konstruktor2.exe
+E:\programowanie\POB\konstruktor2\konstruktor2\bin\Debug\konstruktor2.pdb
+E:\programowanie\POB\konstruktor2\konstruktor2\obj\Debug\konstruktor2.csproj.AssemblyReference.cache
+E:\programowanie\POB\konstruktor2\konstruktor2\obj\Debug\konstruktor2.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\konstruktor2\konstruktor2\obj\Debug\konstruktor2.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\konstruktor2\konstruktor2\obj\Debug\konstruktor2.exe
+E:\programowanie\POB\konstruktor2\konstruktor2\obj\Debug\konstruktor2.pdb

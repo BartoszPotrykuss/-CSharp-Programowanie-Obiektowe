@@ -1,0 +1,8 @@
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\bin\Debug\kolejki i stosy.exe.config
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\bin\Debug\kolejki i stosy.exe
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\bin\Debug\kolejki i stosy.pdb
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\obj\Debug\kolejki i stosy.csproj.AssemblyReference.cache
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\obj\Debug\kolejki i stosy.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\obj\Debug\kolejki i stosy.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\obj\Debug\kolejki i stosy.exe
+E:\programowanie\POB\kolejki i stosy\kolejki i stosy\obj\Debug\kolejki i stosy.pdb
